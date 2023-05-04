@@ -8,7 +8,7 @@ from urllib.request import urlopen
 ser = serial.Serial('/dev/ttyUSB0', 9600) # Replace ttyACM0 with the serial port of the Arduino
 ser.flushInput()
 
-myAPI_key = "05UF2XSTQYIUKNP4"  #your Write API key
+myAPI_key = "***"  #your Write API key
 baseURL = ("https://api.thingspeak.com/update?api_key=%s" %myAPI_key)
 
 while True:
