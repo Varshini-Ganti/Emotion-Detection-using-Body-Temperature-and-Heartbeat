@@ -5,7 +5,7 @@ from urllib.request import urlopen
 
 #sensor = W1ThermSensor()
 
-myAPI_key = "05UF2XSTQYIUKNP4"  #your Write API key
+myAPI_key = "***"  #your Write API key
 baseURL = ("https://api.thingspeak.com/update?api_key=%s" %myAPI_key)
 
  
