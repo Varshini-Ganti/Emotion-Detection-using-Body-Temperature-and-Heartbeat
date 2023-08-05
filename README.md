@@ -6,7 +6,8 @@ A detailed explanation of the system is provided in Final_report_iot.pdf file
 
 Hardware setup
 
-![iot2](https://github.com/Varshini-Ganti/Emotion-Detection-using-Body-Temperature-and-Heartbeat/assets/87769367/36757b3d-f8cd-4fd3-ad41-2a81e91a014e)
+![iot2_copy](https://github.com/Varshini-Ganti/Emotion-Detection-using-Body-Temperature-and-Heartbeat/assets/87769367/a154fba1-5af2-45b8-89fc-e4c717a37add)
+
 
 Temperature readings 
 
